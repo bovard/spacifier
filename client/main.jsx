@@ -29,7 +29,6 @@ var Spacifier = React.createClass({
                     <br />
                     <br />
                     <p>Output:</p>
-                    <p>Length: {this.state.output.length}</p>
                     <Well>
                         <p>{this.state.output}</p>
                     </Well>
